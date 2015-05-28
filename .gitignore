@@ -1,0 +1,8 @@
+*.log
+*.tgz
+*.zip
+node_modules
+bower_components
+.tmp
+.sass-cache
+.DS_Store

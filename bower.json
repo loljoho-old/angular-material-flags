@@ -1,0 +1,25 @@
+{
+  "name": "angular-material-flags",
+  "version": "0.0.0",
+  "homepage": "https://loljoho.github.com/angular-material-flags",
+  "authors": [
+    "Jonathan Ho"
+  ],
+  "description": "AngularJS directive to use national flags in Angular-Material projects with custom fill-color and size",
+  "main": "angular-material-flags.js",
+  "keywords": [],
+  "license": "MIT",
+  "dependencies": {
+    "angular": "~1.4.0",
+    "angular-material": "~0.9.4",
+    "flag-icon-css": "~0.7.1"
+  },
+  "devDependencies": {},
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

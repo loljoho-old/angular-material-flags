@@ -1,0 +1,16 @@
+{
+  "name": "angular-material-flags",
+  "version": "0.0.0",
+  "author": "Jonathan Ho",
+  "description": "AngularJS directive to use national flags in Angular-Material projects with custom fill-color and size",
+  "homepage": "https://loljoho.github.com/angular-material-flags",
+  "main": "angular-material-flags.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/loljoho/angular-material-flags.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
