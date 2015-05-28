@@ -1,0 +1,3 @@
+[submodule "material"]
+  path = flag-icon-css
+  url = git://github.com/lipis/flag-icon-css.git
